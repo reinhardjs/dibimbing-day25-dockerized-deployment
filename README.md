@@ -1,7 +1,7 @@
 ### How to run in local
 
 ```
-uvicorn main:app -—host 0.0.0.0 -—port 8888
+uvicorn main:app --host 0.0.0.0 --port 8080
 ```
 
 ### How to build docker image
