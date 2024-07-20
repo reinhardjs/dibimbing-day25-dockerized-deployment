@@ -1,6 +1,5 @@
 FROM python:3.8-slim as python-base
 ENV ENV=production \
-    POETRY_VERSION=1.1.12 \
     PORT=8001
 RUN apt-get update && apt-get install --no-install-recommends -y \
     build-essential
