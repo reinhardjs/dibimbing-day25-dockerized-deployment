@@ -15,7 +15,7 @@ on:
         required: true
 #2
 env:
-  REGISTRY: "registry.digitalocean.com/demodibimbing"
+  REGISTRY: "registry.digitalocean.com/reinhardjs"
   IMAGE_NAME: "fastapi-iris"
 
 #3
