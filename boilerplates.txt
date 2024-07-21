@@ -21,3 +21,10 @@ python3 -m venv venv
 source venv/bin/activate
 
 pip install -r requirements.txt
+
+
+--------------------------------------------
+
+
+# CI/CD Reference
+# https://faun.pub/full-ci-cd-with-docker-github-actions-digitalocean-droplets-container-registry-db2938db8246
